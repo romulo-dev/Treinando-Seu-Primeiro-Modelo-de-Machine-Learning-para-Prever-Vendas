@@ -61,4 +61,4 @@ Coeficiente de Determinação (R²): 1.00
 
 Foi utilizado as métricas apresentadas anteriormente. O modelo de machine learning foi treinado e com isso se chegou ao modelo de regressão linear apresentado no gráfico abaixo:
 
-<img src="imagens/image-grafico.png" >Imagem do gráfico </img>
+![Imagem do gráfico](https://github.com/romulo-dev/Treinando-Seu-Primeiro-Modelo-de-Machine-Learning-para-Prever-Vendas/blob/main/imagem-grafico.png)
